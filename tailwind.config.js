@@ -13,10 +13,10 @@ module.exports = {
       },
       colors: {
         "primary": {
-          DEFAULT: "#2ca58d"
+          DEFAULT: "#F88412"
         },
         "secondary": {
-          DEFAULT: "#84bc9c",
+          DEFAULT: "#BC8484",
         },
         "oxford-blue": {
           DEFAULT: "#0a2342"
