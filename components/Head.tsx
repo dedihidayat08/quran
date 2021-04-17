@@ -15,7 +15,7 @@ const Head: FC<HeadProps> = ({ title, description }) => {
     <NextHead>
       <title>{title ? `${title} | Bipandu Apps` : `Bipandu Aps`}</title>
       <meta name="description" content={description || "Kumpulan aplikasi dan informasi islami"}/>
-      <link rel="canonical" href={`https://al-ihsan.app${router.pathname}`} />
+      <link rel="canonical" href={`https://quran.dedihidayat.id${router.pathname}`} />
     </NextHead>
   );
 };
