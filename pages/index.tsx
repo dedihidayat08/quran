@@ -9,7 +9,7 @@ export default function Home() {
       <Head/>
       <div className="mb-5 flex flex-wrap justify-center content-center">
         <div className="w-full sm:w-auto flex justify-center">
-          <LogoAlIhsan size={64}/>
+          <logo.svg size={64}/>
         </div>
         <div className="w-full sm:w-auto px-3 select-none text-center">
           <h1 className="font-bold text-3xl text-primary">Bipandu Apps</h1>
