@@ -5,7 +5,7 @@ const LogoWithTypo: FC<HTMLProps<HTMLImageElement>> = ({ className }) => {
     <img
       className={className || "inline-block"}
       src="/pandu-logo.svg"
-      alt="Al-Ihsan Apps"
+      alt="Bipandu Apps"
     />
   );
 };
