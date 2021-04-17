@@ -12,8 +12,8 @@ export default function Home() {
           <LogoAlIhsan size={64}/>
         </div>
         <div className="w-full sm:w-auto px-3 select-none text-center">
-          <h1 className="font-bold text-3xl text-primary">Al-Ihsan Apps</h1>
-          <p className="text-sm font-semibold text-oxford-blue">Kumpulan aplikasi dan informasi islami.</p>
+          <h1 className="font-bold text-3xl text-primary">Bipandu Apps</h1>
+          <p className="text-sm font-semibold text-oxford-blue">Kumpulan aplikasi islami dan informasi Kepanduan.</p>
         </div>
       </div>
       <div className="w-full grid grid-cols-2 grid-flow-row-dense md:grid-cols-3 gap-4">
