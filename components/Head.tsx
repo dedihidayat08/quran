@@ -13,7 +13,7 @@ const Head: FC<HeadProps> = ({ title, description }) => {
 
   return (
     <NextHead>
-      <title>{title ? `${title} | Al-Ihsan Apps` : `Al-Ihsan Apps`}</title>
+      <title>{title ? `${title} | Bipandu Apps` : `Bipandu Aps`}</title>
       <meta name="description" content={description || "Kumpulan aplikasi dan informasi islami"}/>
       <link rel="canonical" href={`https://al-ihsan.app${router.pathname}`} />
     </NextHead>
