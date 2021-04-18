@@ -1,7 +1,7 @@
 import React, { FC } from "react";
 
 const LogoAlIhsan: FC<{ fill?: string; size?: number }> = ({
-  fill = "#0a2342",
+  fill = "#F5740A",
   size = 68.248,
 }) => {
   return (
